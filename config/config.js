@@ -3,7 +3,7 @@
 /**
  * The server port - the port to run Pokemon Showdown under
  */
-exports.port = 8000;
+exports.port = 8
 
 /**
  * The server Name - Being used to rename custom-plugins.
